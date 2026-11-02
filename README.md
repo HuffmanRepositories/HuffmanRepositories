@@ -1,5 +1,7 @@
 <div align="center">
 
+[Security policy](SECURITY.md)
+
 # MrCakes931
 
 ### Huffman Systems · Cyber Intelligence · OSINT · Open Research
