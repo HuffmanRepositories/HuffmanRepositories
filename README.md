@@ -18,6 +18,13 @@
 
 ---
 
+## ◈ Quick Navigation
+
+- [Start here](START-HERE.md) — portfolio orientation for people and agents
+- [Agent guidance](AGENTS.md) — safe, accurate editing rules
+- [Open Source AI Independence](https://github.com/HuffmanRepositories/Open-Source-AI-Independence) — mission and coordination hub
+- [Huffman Ecosystem Guide](https://github.com/HuffmanRepositories/Huffman-Ecosystem-Guide) — public beginner guide
+
 ## ◈ About
 
 **MrCakes931** is the independent identity and open-source research hub of **Robert Huffman**, bringing together cyber intelligence, OSINT, systems engineering, research, and community-oriented projects within the broader Huffman Systems ecosystem.
