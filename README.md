@@ -83,7 +83,9 @@ Project status, scope, and current capabilities are defined by each repository's
 
 ## ◈ Open AI Interoperability & Reliability Portfolio
 
-The **[HuffmanRepositories mission hub](https://github.com/HuffmanRepositories/Open-Source-AI-Independence)** is the public entry point for this portfolio. The repositories below are research and synthetic fixture projects; they are not production agent runtimes, certification programs, or claims of conformance.
+The HuffmanRepositories account now coordinates a **14-repository portfolio (12 public, 2 private)** spanning mission/coordination, compatibility research, interoperability fixtures, agent memory portability, evaluation integrity, retry/idempotency, delegation boundaries, budget enforcement, and user-controlled stop semantics. This is a multi-project research ecosystem—not a single monolithic application.
+
+The **[mission hub](https://github.com/HuffmanRepositories/Open-Source-AI-Independence)** frames the goals; the **[Huffman Ecosystem Root](https://github.com/HuffmanRepositories/Huffman-Ecosystem-Root)** is the canonical project catalog and AI/human router; the **[Ecosystem Guide](https://github.com/HuffmanRepositories/Huffman-Ecosystem-Guide)** supports onboarding; and the private **Blueprint** workspace supports planning and architecture. The repositories below are research and synthetic fixture projects; they are not production agent runtimes, certification programs, or claims of conformance.
 
 | Project | Focus | Maturity |
 |---|---|---|
