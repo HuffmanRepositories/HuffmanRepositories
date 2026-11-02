@@ -24,6 +24,7 @@
 
 - [Start here](START-HERE.md) — portfolio orientation for people and agents
 - [Whitepaper](WHITEPAPER.md) — portfolio model and design principles
+- [Public whitepapers index](https://github.com/HuffmanRepositories/Huffman-Ecosystem-Guide/blob/main/WHITEPAPERS.md) — project papers by Robert Huffman
 - [Agent guidance](AGENTS.md) — safe, accurate editing rules
 - [Open Source AI Independence](https://github.com/HuffmanRepositories/Open-Source-AI-Independence) — mission and coordination hub
 - [Huffman Ecosystem Guide](https://github.com/HuffmanRepositories/Huffman-Ecosystem-Guide) — public beginner guide
