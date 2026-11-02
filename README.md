@@ -20,6 +20,8 @@
 
 ## ◈ Quick Navigation
 
+- [Huffman Agent Handshake](https://github.com/HuffmanRepositories/Open-Source-AI-Independence/blob/main/AGENT-HANDSHAKE.md) — cross-repository scope and handoff contract
+
 - [Start here](START-HERE.md) — portfolio orientation for people and agents
 - [Agent guidance](AGENTS.md) — safe, accurate editing rules
 - [Open Source AI Independence](https://github.com/HuffmanRepositories/Open-Source-AI-Independence) — mission and coordination hub
