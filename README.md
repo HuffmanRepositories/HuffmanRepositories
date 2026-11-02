@@ -31,6 +31,9 @@
 - [Open Source AI Independence](https://github.com/HuffmanRepositories/Open-Source-AI-Independence) — mission and coordination hub
 - [Huffman Ecosystem Guide](https://github.com/HuffmanRepositories/Huffman-Ecosystem-Guide) — public beginner guide
 
+
+> **Portfolio status (2026-11-02):** Public research and synthetic-fixture projects are maintained in this portfolio. The [canonical ecosystem directory](https://github.com/HuffmanRepositories/Huffman-Ecosystem-Root) and [release-readiness review](https://github.com/HuffmanRepositories/Huffman-Ecosystem-Root/blob/main/RELEASE-READINESS-REVIEW.md) track project scope, validation evidence, and outstanding release gates. The portfolio is not represented as a production agent platform or certified release.
+
 ## ◈ About
 
 **MrCakes931** is the independent identity and open-source research hub of **Robert Huffman**, bringing together cyber intelligence, OSINT, systems engineering, research, and community-oriented projects within the broader Huffman Systems ecosystem.
