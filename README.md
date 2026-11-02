@@ -81,7 +81,7 @@ The **[HuffmanRepositories mission hub](https://github.com/HuffmanRepositories/O
 | [Agent Delegation Scope Boundary (P13)](https://github.com/HuffmanRepositories/Agent-Delegation-Scope-Boundary-Fixtures) | Delegated authority, ancestry, scope, approval, expiry, and revocation | Synthetic draft fixtures |
 | [Agent Delegated Budget Enforcement (P14)](https://github.com/HuffmanRepositories/Agent-Delegated-Budget-Enforcement-Fixtures) | Hierarchical allocations, reservations, settlement, and budget boundaries | Synthetic draft fixtures |
 
-**Portfolio index:** [Project map](https://github.com/HuffmanRepositories/Open-Source-AI-Independence/blob/main/docs/project-map.md) · [Account ecosystem](https://github.com/HuffmanRepositories/Open-Source-AI-Independence/blob/main/docs/account-ecosystem.md) · [Roadmap](https://github.com/HuffmanRepositories/Open-Source-AI-Independence/blob/main/ROADMAP.md)
+**Portfolio index:** [Project map](https://github.com/HuffmanRepositories/Open-Source-AI-Independence/blob/main/docs/project-map.md) · [Account ecosystem](https://github.com/HuffmanRepositories/Open-Source-AI-Independence/blob/main/docs/account-ecosystem.md) · [Roadmap](https://github.com/HuffmanRepositories/Open-Source-AI-Independence/blob/main/ROADMAP.md) · [Security posture](https://github.com/HuffmanRepositories/Open-Source-AI-Independence/blob/main/docs/security-posture.md)
 
 Each project's README defines its current scope, status, validation limits, and contribution path. A passing structural validator is not implementation conformance or a security guarantee.
 
