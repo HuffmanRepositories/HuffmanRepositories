@@ -64,6 +64,27 @@ These accounts represent different technical perspectives and workspaces. This r
 
 Project status, scope, and current capabilities are defined by each repository's own documentation.
 
+
+## ◈ Open AI Interoperability & Reliability Portfolio
+
+The **[HuffmanRepositories mission hub](https://github.com/HuffmanRepositories/Open-Source-AI-Independence)** is the public entry point for this portfolio. The repositories below are research and synthetic fixture projects; they are not production agent runtimes, certification programs, or claims of conformance.
+
+| Project | Focus | Maturity |
+|---|---|---|
+| [Open Source AI Independence](https://github.com/HuffmanRepositories/Open-Source-AI-Independence) | Mission, roadmap, project map, and community coordination | Mission / coordination hub |
+| [Open Agent Compatibility (OAC)](https://github.com/HuffmanRepositories/Open-Agent-Compatibility) | Protocol-version mapping, compatibility methodology, and interoperability research | Early research |
+| [OAC Fixtures](https://github.com/HuffmanRepositories/Open-Agent-Compatibility-Fixtures) | Reproducible compatibility examples and fixture validation | Draft fixtures |
+| [Open Agent Run Metrics Interop (OARMI)](https://github.com/HuffmanRepositories/Open-Agent-Run-Metrics-Interop) | Usage/accounting interchange cases and source-version notes | Draft fixtures |
+| [Agent Memory Portability Tests (P10)](https://github.com/HuffmanRepositories/Agent-Memory-Portability-Tests) | Memory export/import, migration, provenance, retention, and loss scenarios | Synthetic draft fixtures |
+| [Agent Evaluation Oracle Integrity (P11)](https://github.com/HuffmanRepositories/Agent-Evaluation-Oracle-Integrity-Fixtures) | Evaluation/oracle integrity review scenarios | Synthetic draft fixtures |
+| [Agent Tool Retry & Idempotency (P12)](https://github.com/HuffmanRepositories/Agent-Tool-Retry-Idempotency-Fixtures) | Retry, side-effect, idempotency, and unknown-outcome cases | Synthetic draft fixtures |
+| [Agent Delegation Scope Boundary (P13)](https://github.com/HuffmanRepositories/Agent-Delegation-Scope-Boundary-Fixtures) | Delegated authority, ancestry, scope, approval, expiry, and revocation | Synthetic draft fixtures |
+| [Agent Delegated Budget Enforcement (P14)](https://github.com/HuffmanRepositories/Agent-Delegated-Budget-Enforcement-Fixtures) | Hierarchical allocations, reservations, settlement, and budget boundaries | Synthetic draft fixtures |
+
+**Portfolio index:** [Project map](https://github.com/HuffmanRepositories/Open-Source-AI-Independence/blob/main/docs/project-map.md) · [Account ecosystem](https://github.com/HuffmanRepositories/Open-Source-AI-Independence/blob/main/docs/account-ecosystem.md) · [Roadmap](https://github.com/HuffmanRepositories/Open-Source-AI-Independence/blob/main/ROADMAP.md)
+
+Each project's README defines its current scope, status, validation limits, and contribution path. A passing structural validator is not implementation conformance or a security guarantee.
+
 ## ◈ Intelligence Workflow
 
 ```text
