@@ -96,6 +96,7 @@ The **[HuffmanRepositories mission hub](https://github.com/HuffmanRepositories/O
 | [Agent Tool Retry & Idempotency (P12)](https://github.com/HuffmanRepositories/Agent-Tool-Retry-Idempotency-Fixtures) | Retry, side-effect, idempotency, and unknown-outcome cases | Synthetic draft fixtures |
 | [Agent Delegation Scope Boundary (P13)](https://github.com/HuffmanRepositories/Agent-Delegation-Scope-Boundary-Fixtures) | Delegated authority, ancestry, scope, approval, expiry, and revocation | Synthetic draft fixtures |
 | [Agent Delegated Budget Enforcement (P14)](https://github.com/HuffmanRepositories/Agent-Delegated-Budget-Enforcement-Fixtures) | Hierarchical allocations, reservations, settlement, and budget boundaries | Synthetic draft fixtures |
+| [User-Controlled Emergency Stop (P15)](https://github.com/HuffmanRepositories/Huffman-Ecosystem-Root/tree/main/p15) | User stop semantics and synthetic P12–P15 integration harness | Synthetic reference fixtures; not a deployed kill switch |
 
 
 
